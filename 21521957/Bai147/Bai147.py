@@ -10,3 +10,4 @@ while t != 0:
         print("Toan le")
     else:
         print("Khong toan le")
+

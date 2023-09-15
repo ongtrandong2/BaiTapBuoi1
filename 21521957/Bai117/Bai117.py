@@ -11,3 +11,4 @@ while i <= n:
     at = ahh
 print("So hang thu ", n, "cua day la ", ahh)
 
+

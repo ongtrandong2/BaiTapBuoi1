@@ -9,3 +9,4 @@ while i <= n:
     i = i + 1
 print("S(", x, ",", n, ") = ", s)
 
+

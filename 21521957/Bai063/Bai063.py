@@ -7,3 +7,4 @@ while (t != 0):
         tich = tich * dv
     t = t // 10
 print("Tich cac chu so le cua ", n, "la ", tich)
+

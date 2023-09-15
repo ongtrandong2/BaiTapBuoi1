@@ -6,3 +6,4 @@ while i <= n:
     s = sqrt(2 + s)
     i = i + 1
 print("S(", n, ") = ", s)
+

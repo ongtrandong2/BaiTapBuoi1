@@ -4,3 +4,4 @@ while dt >= 10:
     dt = dt // 10
 print("Chu so dau tien cua", n, "la", dt)
 
+

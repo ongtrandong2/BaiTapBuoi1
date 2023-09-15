@@ -8,3 +8,4 @@ while n <= y:
         print("Nam", n, "la nam nhuan \n")
     n = n + 1
 
+

@@ -5,3 +5,4 @@ while (i <= n):
     s = s * (1 + float(1 / (i * i)))
     i = i + 1
 print("S(", n, ") = ", s)
+

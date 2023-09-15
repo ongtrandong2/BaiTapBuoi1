@@ -9,3 +9,4 @@ while e >= pow(10, -6):
     i = i + 1
 print("S( n ) = ", s)
 
+

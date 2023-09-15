@@ -8,3 +8,4 @@ while e >= pow(10, -6):
     dau = -dau
     i = i + 2
 print("pi = ", s)
+

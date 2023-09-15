@@ -11,3 +11,4 @@ while i <= 2 * n:
     i = i + 2
 print("S(" , x, ",", n, ") = ", s)
 
+

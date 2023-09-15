@@ -11,3 +11,4 @@ while i <= 2 * n + 1:
     dau = -dau
 print("S(", x, ",", n, ") = ", s)
 
+

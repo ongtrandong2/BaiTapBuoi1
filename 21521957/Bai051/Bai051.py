@@ -7,3 +7,4 @@ while (i <= n):
     i = i + 1
 print("Tich cac uoc so cua ", n, "la ", t)
 
+
