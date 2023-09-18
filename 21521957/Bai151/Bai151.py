@@ -12,3 +12,4 @@ else:
     print(n,'khong co dang 3^m')
         
 
+

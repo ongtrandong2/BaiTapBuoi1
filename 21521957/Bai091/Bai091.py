@@ -12,3 +12,4 @@ while(i <= 2 * n):
     i = i + 2
     dau = -1 * dau
 print("S(", x, ",", n, ")= ", s)
+
