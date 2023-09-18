@@ -11,3 +11,4 @@ if is_valid_triangle(x1, y1, x2, y2, x3, y3):
     print("hop le.")
 else:
     print("khong hop le.")
+

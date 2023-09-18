@@ -14,3 +14,4 @@ n = int(input("n: "))
 
 result = calculate_S(x, n)
 print(f"S({x}, {n}) = {result}")
+

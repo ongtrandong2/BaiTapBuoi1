@@ -10,3 +10,4 @@ n = int(input("Nhap n: "))
 
 result = calculate_series_sum(n)
 print(f"tong day tu 1/1 den 1/{n} la: {result:.2f}")
+

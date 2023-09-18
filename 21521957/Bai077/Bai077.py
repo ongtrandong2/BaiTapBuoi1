@@ -9,3 +9,4 @@ k = int(input("k: "))
 
 result = calculate_S(n, k)
 print(f"S({n}, {k}) = {result}")
+

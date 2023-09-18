@@ -19,3 +19,4 @@ x3, y3 = map(float, input("Nhap C (x y): ").split())
 
 area = calculate_triangle_area(x1, y1, x2, y2, x3, y3)
 print(f"dien tich: {area:.2f}")
+

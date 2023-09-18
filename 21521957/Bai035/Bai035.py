@@ -13,3 +13,4 @@ if n < 0:
 else:
     result = factorial(n)
     print(f"{n}! = {result}")
+
