@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>526a2d56-4ad5-4e5e-a1cb-83bbc3c2362e</ProjectGuid>
+    <ProjectGuid>e77cc293-89b4-48f7-af23-5b93caa34af5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>Bai021.py</StartupFile>
     <SearchPath>

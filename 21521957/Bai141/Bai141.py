@@ -1,7 +1,5 @@
-n = int(input("Nhap n: "))
-dt = abs(n)
-while dt >= 10:
-    dt = dt // 10
-print("Chu so dau tien cua", n, "la", dt)
-
-
+n = int(input("Nhap vao so nguyen duong n: "))
+while ( n > 0 ):
+    k = n%10
+    n //= 10
+print("Chu so dau tien cua n la: ", k)

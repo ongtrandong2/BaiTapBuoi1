@@ -1,3 +1,4 @@
+
 n = int(input("Nhap n: "))
 dem = 0
 t = n

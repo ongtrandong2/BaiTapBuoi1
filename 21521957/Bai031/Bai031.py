@@ -7,3 +7,4 @@ while i <= (2 * n + 1):
     i = i + 2
 
 print("S = ", s)
+

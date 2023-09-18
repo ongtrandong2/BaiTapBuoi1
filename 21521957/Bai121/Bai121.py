@@ -8,3 +8,4 @@ while i <= n:
     att = at
     at = ahh
 print("So hang thu", n,"cua day la: ", ahh)
+
