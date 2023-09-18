@@ -7,3 +7,4 @@ n = int(input("Nhap n: "))
 
 tens_digit = find_tens_place(n)
 print(f"Chu so hang chuc cua {n} la: {tens_digit}")
+

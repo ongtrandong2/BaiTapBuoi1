@@ -11,3 +11,4 @@ n = int(input("nhap n: "))
 
 odd_divisors = find_odd_divisors(n)
 print(f"uoc le cua {n} la: {odd_divisors}")
+

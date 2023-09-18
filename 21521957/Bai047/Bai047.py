@@ -12,3 +12,4 @@ m = int(input("Nhap m: "))
 
 result = calculate_sum(m)
 print(f"Tong: {result:.4f}")
+

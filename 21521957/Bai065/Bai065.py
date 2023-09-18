@@ -8,3 +8,4 @@ n = int(input("nhap n: "))
 
 min_digit = find_min_digit(n)
 print(f"chu so nho nhat cua {n} la: {min_digit}")
+
