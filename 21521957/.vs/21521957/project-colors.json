@@ -5,7 +5,152 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "d1c05167-9fa0-4943-a2c5-ad7f956adcc7": {
+      "ProjectGuid": "d1c05167-9fa0-4943-a2c5-ad7f956adcc7",
+      "DisplayName": "Bai043",
+      "ColorIndex": 0
+    },
+    "a850d135-66b5-45c2-ac0f-e6077a891088": {
+      "ProjectGuid": "a850d135-66b5-45c2-ac0f-e6077a891088",
+      "DisplayName": "Bai002",
+      "ColorIndex": 1
+    },
+    "f0e25435-c85b-46c2-839e-ec23f57ed6e1": {
+      "ProjectGuid": "f0e25435-c85b-46c2-839e-ec23f57ed6e1",
+      "DisplayName": "Bai008",
+      "ColorIndex": 2
+    },
+    "2429c12b-ffc4-4f62-8d49-e8cf62ff64cd": {
+      "ProjectGuid": "2429c12b-ffc4-4f62-8d49-e8cf62ff64cd",
+      "DisplayName": "Bai014",
+      "ColorIndex": 3
+    },
+    "95d016b1-bed0-421e-8ef9-da9de2e63773": {
+      "ProjectGuid": "95d016b1-bed0-421e-8ef9-da9de2e63773",
+      "DisplayName": "Bai020",
+      "ColorIndex": 4
+    },
+    "88c186de-c913-42f7-8895-ebf2f64f2002": {
+      "ProjectGuid": "88c186de-c913-42f7-8895-ebf2f64f2002",
+      "DisplayName": "Bai026",
+      "ColorIndex": 5
+    },
+    "970c693d-fb9a-470f-8c88-14911c7ad080": {
+      "ProjectGuid": "970c693d-fb9a-470f-8c88-14911c7ad080",
+      "DisplayName": "Bai032",
+      "ColorIndex": 6
+    },
+    "6c99fffb-b5ad-4e24-9474-1a3bd83d2085": {
+      "ProjectGuid": "6c99fffb-b5ad-4e24-9474-1a3bd83d2085",
+      "DisplayName": "Bai038",
+      "ColorIndex": 7
+    },
+    "ee6922ce-0da7-477b-b0cc-0f41907eb06d": {
+      "ProjectGuid": "ee6922ce-0da7-477b-b0cc-0f41907eb06d",
+      "DisplayName": "Bai044",
+      "ColorIndex": 8
+    },
+    "35303cfc-337e-47fe-98cc-39cc13e5e6f3": {
+      "ProjectGuid": "35303cfc-337e-47fe-98cc-39cc13e5e6f3",
+      "DisplayName": "Bai050",
+      "ColorIndex": 9
+    },
+    "43757ef4-f235-4bcc-9c8b-184fec855e2f": {
+      "ProjectGuid": "43757ef4-f235-4bcc-9c8b-184fec855e2f",
+      "DisplayName": "Bai056",
+      "ColorIndex": 10
+    },
+    "80cc31b6-ef05-4ebb-a816-1d47ad1a99ee": {
+      "ProjectGuid": "80cc31b6-ef05-4ebb-a816-1d47ad1a99ee",
+      "DisplayName": "Bai062",
+      "ColorIndex": 11
+    },
+    "92619464-83a9-4782-9079-d04a735261bf": {
+      "ProjectGuid": "92619464-83a9-4782-9079-d04a735261bf",
+      "DisplayName": "Bai068",
+      "ColorIndex": 12
+    },
+    "2cc9b22b-6345-4f4a-9602-7047deda2aa5": {
+      "ProjectGuid": "2cc9b22b-6345-4f4a-9602-7047deda2aa5",
+      "DisplayName": "Bai074",
+      "ColorIndex": 13
+    },
+    "fdb7c205-a182-4b6f-a44b-8752a20b47f9": {
+      "ProjectGuid": "fdb7c205-a182-4b6f-a44b-8752a20b47f9",
+      "DisplayName": "Bai080",
+      "ColorIndex": 14
+    },
+    "fb786072-6d59-4b80-94b5-d40b835ad942": {
+      "ProjectGuid": "fb786072-6d59-4b80-94b5-d40b835ad942",
+      "DisplayName": "Bai086",
+      "ColorIndex": 15
+    },
+    "bd58c1b9-15d9-4e2c-9e2f-5ff9dcd49338": {
+      "ProjectGuid": "bd58c1b9-15d9-4e2c-9e2f-5ff9dcd49338",
+      "DisplayName": "Bai092",
+      "ColorIndex": 0
+    },
+    "121e5246-8174-4576-b5ee-3be64abb57b4": {
+      "ProjectGuid": "121e5246-8174-4576-b5ee-3be64abb57b4",
+      "DisplayName": "Bai098",
+      "ColorIndex": 1
+    },
+    "84da6d1b-20fb-49d6-af08-8c9ad6a0b7a4": {
+      "ProjectGuid": "84da6d1b-20fb-49d6-af08-8c9ad6a0b7a4",
+      "DisplayName": "Bai104",
+      "ColorIndex": 2
+    },
+    "727d8590-ea14-480a-8b09-cbaa2fc943ad": {
+      "ProjectGuid": "727d8590-ea14-480a-8b09-cbaa2fc943ad",
+      "DisplayName": "Bai110",
+      "ColorIndex": 3
+    },
+    "e7baeda0-2e37-4017-b5d6-387a4a83b375": {
+      "ProjectGuid": "e7baeda0-2e37-4017-b5d6-387a4a83b375",
+      "DisplayName": "Bai116",
+      "ColorIndex": 4
+    },
+    "ff884c4f-0c84-4180-9e81-ce92354a1e99": {
+      "ProjectGuid": "ff884c4f-0c84-4180-9e81-ce92354a1e99",
+      "DisplayName": "Bai122",
+      "ColorIndex": 5
+    },
+    "082d42d9-c2ee-4b8b-85a6-c64e8882d8af": {
+      "ProjectGuid": "082d42d9-c2ee-4b8b-85a6-c64e8882d8af",
+      "DisplayName": "Bai128",
+      "ColorIndex": 6
+    },
+    "e928a306-a6f4-41a4-9d94-53d2d7e7bb80": {
+      "ProjectGuid": "e928a306-a6f4-41a4-9d94-53d2d7e7bb80",
+      "DisplayName": "Bai134",
+      "ColorIndex": 7
+    },
+    "d1fd5baa-256e-4a1a-baa0-a262230948d1": {
+      "ProjectGuid": "d1fd5baa-256e-4a1a-baa0-a262230948d1",
+      "DisplayName": "Bai140",
+      "ColorIndex": 8
+    },
+    "c0faec57-b197-45c4-97b6-6139e06383b4": {
+      "ProjectGuid": "c0faec57-b197-45c4-97b6-6139e06383b4",
+      "DisplayName": "Bai146",
+      "ColorIndex": 9
+    },
+    "0373e1e2-7700-41f1-a874-30aa93d19ebb": {
+      "ProjectGuid": "0373e1e2-7700-41f1-a874-30aa93d19ebb",
+      "DisplayName": "Bai152",
+      "ColorIndex": 10
+    },
+    "f51669a9-0934-4155-b669-8834542165dc": {
+      "ProjectGuid": "f51669a9-0934-4155-b669-8834542165dc",
+      "DisplayName": "Bai158",
+      "ColorIndex": 11
+    },
+    "ec000cd6-56dd-4486-8aa5-74a1e823f608": {
+      "ProjectGuid": "ec000cd6-56dd-4486-8aa5-74a1e823f608",
+      "DisplayName": "Bai164",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 13
 }
