@@ -227,6 +227,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai108", "Bai108\Bai108.pyp
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai114", "Bai114\Bai114.pyproj", "{19086F9E-1C80-4D61-9502-7B07BB23A978}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai120", "Bai120\Bai120.pyproj", "{947EDABD-889B-4ED2-B94C-8AA9A52DE143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -457,6 +459,8 @@ Global
 		{C4D4791D-D70B-4F70-8D4B-5EC207AA5185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19086F9E-1C80-4D61-9502-7B07BB23A978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19086F9E-1C80-4D61-9502-7B07BB23A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947EDABD-889B-4ED2-B94C-8AA9A52DE143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947EDABD-889B-4ED2-B94C-8AA9A52DE143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
