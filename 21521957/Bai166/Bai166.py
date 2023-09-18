@@ -1,7 +1,12 @@
-n=int(input('Nhap n: '))
-t=1
-k=1
-while 2*t<n:
-    t=2*t
-    k+=1
-print('So nguyen k nho nhat de 2^k > n la:', k)
+n=int(input('Nhap n:'))
+dt=n
+while dt>=10:
+    dt = dt // 10
+t = n
+dem = 0
+while t!=0:
+    dv = t  %10
+    if ( dv == dt ):
+        dem+=1
+    t = t // 10
+print('So chu so dau tien cua n la:',dem)
